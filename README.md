@@ -1,4 +1,4 @@
-## Kafka-Clone-Java
+# Kafka-Clone-Java
 
 Apache Kafka is a distributed event store and stream-processing
 platform, used for building real-time data pipeline and streaming
@@ -14,7 +14,7 @@ applications.
 Kafka Clone aims to mimic the functionalities of Apache Kafka, and
 provide a similar experience to Apache Kafka users.
 
-# Implementation details :
+## Implementation details :
 
 -> Producer is responsible for sending records to the Kafka Cluster
 through the broker, under a particular topic.
