@@ -45,5 +45,5 @@ each of the broker other than the inactive one, after which it
 chooses the one with maximum integer value as the new
 brokers.
 
-##Class Diagram
+## Class Diagram
 ![Class](https://user-images.githubusercontent.com/73905298/234780250-b5d8fbbf-71b9-4461-8a83-31c019117e1b.jpeg)
