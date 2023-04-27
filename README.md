@@ -1,12 +1,12 @@
 # Kafka Clone Java
 
 ## OOADJ PROJECT
-### SHREYA KISHOR - PES1UG20CS400
-### SHREYA S ADIGA - PES1UG20CS401
-### SHRUTI M KARANDE - PES1UG20CS417
-### SHUBHA V HEGDE - PES1UG20CS419
+#### SHREYA KISHOR - PES1UG20CS400
+#### SHREYA S ADIGA - PES1UG20CS401
+#### SHRUTI M KARANDE - PES1UG20CS417
+#### SHUBHA V HEGDE - PES1UG20CS419
 
-# SYNOPSIS
+## SYNOPSIS
 
 Apache Kafka is a distributed event store and stream-processing
 platform, used for building real-time data pipeline and streaming
