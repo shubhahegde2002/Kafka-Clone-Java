@@ -47,3 +47,12 @@ brokers.
 
 ## Class Diagram
 ![Class](https://user-images.githubusercontent.com/73905298/234780250-b5d8fbbf-71b9-4461-8a83-31c019117e1b.jpeg)
+
+## Use Case Diagram
+![Use_Case](https://user-images.githubusercontent.com/73905298/234783936-9b976ea8-97cc-4502-956b-be04bdb5ae70.jpeg)
+
+## State Diagram
+![State_Diagram](https://user-images.githubusercontent.com/73905298/234783964-0caef939-eb55-4958-abec-339b776fa17b.jpeg)
+
+## Activity Diagram
+![Activity_Diagram](https://user-images.githubusercontent.com/73905298/234783980-fa2b69c8-a973-4a92-8191-38cc243b0d61.jpeg)
